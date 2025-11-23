@@ -4,7 +4,7 @@ To simulate an operational amplifier based summing amplifier and verify the outp
 ## Apparatus required:
 PC with LT Spice Software
 ## Circuit Diagram:
-<img width="1920" height="1080" alt="Screenshot 2025-11-22 220442" src="https://github.com/user-attachments/assets/0797d9c3-b9e0-4dc9-8c1c-167b5acafe94" />
+![WhatsApp Image 2025-11-23 at 00 40 31_5da436ac](https://github.com/user-attachments/assets/f03a145d-3cd1-42b9-965f-856d93632495)
 
 ## Simulation Procedure:
 1.	Open the Ltspice software
@@ -44,7 +44,11 @@ PC with LT Spice Software
 
 
 ## Output:
-<img width="1920" height="1080" alt="Screenshot 2025-11-22 221115" src="https://github.com/user-attachments/assets/103df16f-885e-4aff-b140-2d1906cc8d30" />
+INPUT WAVEFORM
+<img width="1911" height="1016" alt="Screenshot 2025-11-23 003500" src="https://github.com/user-attachments/assets/e08142cc-14f4-49da-9183-0583718cf75a" />
+
+OUTPUT WAVEFORM
+<img width="1905" height="1016" alt="Screenshot 2025-11-23 003640" src="https://github.com/user-attachments/assets/82be24e3-e5bf-47fa-8dfc-28dc576d98c9" />
 
 
 ## Result:
